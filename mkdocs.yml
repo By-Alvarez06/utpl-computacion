@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Carrera de Computación - UTPL
+
+nav:
+  - Home: index.md
+  - Malla Curricular: malla-curricular.md
