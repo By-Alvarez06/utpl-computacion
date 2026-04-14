@@ -1,4 +1,4 @@
-# Página de información sobre carrera Computación - UTPL
+# Página de información sobre carrera de Computación - UTPL
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
