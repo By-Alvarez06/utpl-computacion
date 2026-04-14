@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Página de información sobre carrera Computación - UTPL
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
